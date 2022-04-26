@@ -16,7 +16,7 @@ import (
 	"github.com/aws/aws-sdk-go/service/s3"
 	"github.com/crewjam/awsregion"
 
-	cfn "github.com/crewjam/go-cloudformation"
+	cfn "github.com/leestevensea/go-cloudformation"
 )
 
 type DeployInput struct {
